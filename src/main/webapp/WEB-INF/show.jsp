@@ -27,7 +27,7 @@
 					</div>
 				</div>
 				<form class="card align-self-end mt-3" action="/">
-					<button class="btn btn-primary" value="">Create another one, Oni-Chan!</button>
+					<button class="btn btn-primary">Create another one!</button>
 				</form>
 			</div>
 		</div>
